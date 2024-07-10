@@ -8,9 +8,16 @@
 
 #### [[Paper](https://arxiv.org/pdf/2407.06531)] /  [[Demo](https://youtu.be)] / [[Project page](https://github.com/qianduoduolr/DecoMotion)] 
 
+<div  align="center">    
+<img src="figure/pt1.gif"  height="380px"/> 
+</div>
+
 This is the official code for  "**Decomposition Betters Tracking Everything Everywhere**". 
 
 
+
+
+   
 
 ## :star: News
 - *2024.07.04:*  Our paper "Decomposition Betters Tracking Everything Everywhere" is accepted to ECCV 2024. Code and models will be released as soon as possible.
