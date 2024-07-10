@@ -6,7 +6,7 @@
 
 <sup>1</sup>University of Science and Technology of China, Hefei, China
 
-
+#### [[Paper](https://arxiv.org/pdf/2407.06531)] /  [[Demo](https://youtu.be)] / [[Project page](https://github.com/qianduoduolr/DecoMotion)] 
 
 This is the official code for  "**Decomposition Betters Tracking Everything Everywhere**". 
 
